@@ -1,0 +1,1 @@
+Aplicativo básico de uma calculadora feito em react-native
